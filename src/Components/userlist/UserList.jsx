@@ -1,4 +1,3 @@
-//https://yandex.ru/images/search?p=1&text=marcus+rashford&pos=13&rpt=simage&img_url=https%3A%2F%2Fsun1-90.userapi.com%2F3dAQnBPAVaf6iWOf950giojhs3y0SnlqdChaUQ%2Flj0VXuOKOAM.jpg&from=tabbar&lr=10335
 
 import "./UserList.css";
 
